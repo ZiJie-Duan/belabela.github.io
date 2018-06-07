@@ -39,3 +39,7 @@ SwitchyOmega插件 [插件官网](https://www.switchyomega.com)
 <br>
 
 [V2ray 使用注意事项！](Prompt.md)
+
+<br>
+
+[V2ray 更新日志](UpdateLog.md)
