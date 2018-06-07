@@ -33,15 +33,11 @@ Windows 版本(最新)[点击下载](http://60.205.221.103/v2ray/v2ray.zip)
 
 Windows chrome [点击下载](http://60.205.221.103/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
 <br>
-SwitchyOmega插件 [插件官网](https://www.switchyomega.com)
-<br>
-插件使用方法在官网有详细说明 不明白请等待更新图文教程
+SwitchyOmega插件 [点击下载](http://60.205.221.103/v2ray/SwitchyOmega_Chromium.crx)
 
 <br>
 
 安卓 Actinium [点击下载](http://60.205.221.103/v2ray/Actinium.apk)
-<br>
-使用方法请等待图文教程更新！
 
 <br>
 
