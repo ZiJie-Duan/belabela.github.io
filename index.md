@@ -2,7 +2,10 @@
 <br>
 
 [最新通知 2018-06-06](Notice.md)
+
 <br>
+
+[V2ray 翻墙服务 测试版本](web/v2/Subhomepage.md)
 
 <br>
 
