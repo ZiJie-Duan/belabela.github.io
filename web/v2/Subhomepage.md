@@ -21,7 +21,9 @@ Windows 版本(最新)[点击下载](http://60.205.221.103/v2ray/v2ray.zip)
 将配置文件解压后覆盖至根目录即可
 <br>
 注意！！！V2ray需要和 Google浏览器与 SwitchyOmega插件 配合使用!
+
 <br>
+
 Windows chrome [点击下载](http://60.205.221.103/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
 <br>
 SwitchyOmega插件 [插件官网](https://www.switchyomega.com)
