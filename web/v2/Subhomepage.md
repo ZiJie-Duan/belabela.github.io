@@ -22,6 +22,8 @@ v2ray 配置文件
 
 <br>
 
+[v2ray 安装教程](Course_2.md)
+
 [v2ray 手动安装教程](Course_1.md)
 
 <br>
