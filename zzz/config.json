@@ -17,11 +17,11 @@
     "settings": {
         "vnext": [
             {
-                "address": "149.28.231.201",
+                "address": "45.77.178.122",
                 "port": 2233,
                 "users": [
                     {
-                        "id": "dad63408-9c39-4920-946d-5593d94cc675",
+                        "id": "d67385bb-0b9a-460d-bf0f-16a282bcf2ac",
                         "alterId": 100
                     }
                 ]
