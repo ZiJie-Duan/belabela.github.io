@@ -1,6 +1,6 @@
 ### Lucycore V2Ray
 
-####V2ray 翻墙服务 测试版本
+#### V2ray 翻墙服务 测试版本
 
 <br>
 
@@ -12,7 +12,7 @@
 <br>
 
 此技术由一个匿名团队提供
-[技术官网](https://www.v2ray.com)
+技术官网[https://www.v2ray.com](https://www.v2ray.com)
 
 <br>
 
@@ -22,17 +22,28 @@ v2ray 配置文件
 
 <br>
 
-[v2ray 安装教程](Course_2.md)
-
-[v2ray 手动安装教程](Course_1.md)
+[v2ray 全自动安装教程](Course_2.md)
 
 <br>
 
-Windows 版本(最新)[点击下载](http://60.205.221.103/v2ray/v2ray.zip)
+Windows 版本(最新)[点击下载](http://60.205.221.103/v2ray/v2ray.exe)
 <br>
-将配置文件解压后覆盖至根目录即可
+双击运行即可！
 <br>
 注意！！！V2ray需要和 Google浏览器与 SwitchyOmega插件 配合使用!
+<br>
+
+### 我们的v2ray并非免费开放使用！
+
+<br>
+根据每月服务器供应商vultr产生的费用，需要您来承担部分
+<br>
+我们会提出尽量偏低且合理的价格
+<br>
+关于付费方法由 爱发卡平台 以卡密形式提供
+<br>
+购买链接
+
 
 <br>
 
