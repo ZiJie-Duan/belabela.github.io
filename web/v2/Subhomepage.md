@@ -26,13 +26,13 @@ v2ray 配置文件
 
 <br>
 
-Windows 版本(最新)[点击下载](http://60.205.221.103/v2ray/v2ray.exe)
+Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2ray.exe)
 <br>
 双击运行即可！
 <br>
 注意！！！V2ray需要和 Google浏览器与 SwitchyOmega插件 配合使用!
 
-### 我们的v2ray并非免费开放使用！
+#### 我们的v2ray并非免费开放使用！
 
 根据每月服务器供应商vultr产生的费用，需要您来承担部分
 <br>
@@ -40,8 +40,7 @@ Windows 版本(最新)[点击下载](http://60.205.221.103/v2ray/v2ray.exe)
 <br>
 关于付费方法由 爱发卡平台 以卡密形式提供
 <br>
-购买链接
-
+购买链接 [点击转跳](https://www.2faka.com/merchant/B9747DC7123A)
 
 <br>
 
