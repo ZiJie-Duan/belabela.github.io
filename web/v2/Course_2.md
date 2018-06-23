@@ -186,7 +186,7 @@
 ##### 输入您购买的 密钥（卡密）
 ##### 然后会弹出激活成功 验证成功的字样
 
-[这里附上购买链接]（https://www.2faka.com/store/B9747DC7123A）
+[这里附上购买链接](https://www.2faka.com/store/B9747DC7123A)
 
 ![a](Course_2material/a_8.PNG)
 
