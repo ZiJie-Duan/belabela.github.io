@@ -26,9 +26,9 @@
 
 <br>
 
-##### 下载 Windows chrome
+##### 下载 Windows chrome 和 windows版本（最新）
 
-![a](Course_1material/4.PNG)
+![a](Course_2material/a_23.PNG)
 
 <br>
 
@@ -150,7 +150,7 @@
 
 <br>
 
-##### 接下来距离成功只有很短很短的一点点距离了！
+##### 接下来距离成功只有一点点距离了！
 ##### 点击黑色的圈圈
 ##### 选择 你自己刚刚 起了名字 的选项
 
@@ -163,21 +163,33 @@
 
 <br>
 
-##### 接下来就剩最后一步了！
-##### 打开解压出来的v2ray文件夹
+##### 打开刚刚下载的v2ray.exe文件
 
-![a](Course_1material/7.PNG)
+![a](Course_2material/a_3.PNG)
 
-##### 在文件夹中找到一个名为 “v2ray.exe” 的文件
+##### 如果弹出类似于这样的拦截风险提示
+##### 请允许运行！
 
-![a](Course_1material/30.PNG)
+![a](Course_2material/a_4.PNG)
 
-##### 双击打开！
-##### 弹出一个黑色的框框
-##### 返回你的浏览器！
+![a](Course_2material/a_5.PNG)
 
-![a](Course_1material/31.PNG)
+##### 接下来会弹出一个黑色的框框
+##### 会提示正在下载 这个需要几分钟时间
 
+![a](Course_2material/a_6.PNG)
+
+##### 按下任意键退出程序
+
+![a](Course_2material/a_7.PNG)
+
+##### 接下来重新打开v2ray.exe
+##### 输入您购买的 密钥（卡密）
+##### 然后会弹出激活成功 验证成功的字样
+
+![a](Course_2material/a_8.PNG)
+
+##### 然后返回你的浏览器！
 ##### 开启你的墙外之旅！
 
 ![a](Course_1material/32.PNG)
