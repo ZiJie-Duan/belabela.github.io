@@ -26,7 +26,7 @@ v2ray 配置文件
 
 <br>
 
-Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMac.zip)
+Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMacx.zip)
 
 <br>
 
