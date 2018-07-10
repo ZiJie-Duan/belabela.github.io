@@ -26,6 +26,10 @@ v2ray 配置文件
 
 <br>
 
+Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMac)
+
+<br>
+
 Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2ray.exe)
 <br>
 双击运行即可！
@@ -41,10 +45,6 @@ Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2ray.exe)
 根据每月服务器供应商vultr产生的费用，需要您来承担部分
 <br>
 我们会提出尽量偏低且合理的价格
-<br>
-关于付费方法由 爱发卡平台 以卡密形式提供
-<br>
-购买链接 [点击转跳](https://www.2faka.com/merchant/B9747DC7123A)
 
 <br>
 
