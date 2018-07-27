@@ -26,11 +26,11 @@ v2ray 配置文件
 
 <br>
 
-Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMacx.zip)
+Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMacX.zip)
 
 <br>
 
-Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2ray.exe)
+Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayWinX.exe)
 <br>
 双击运行即可！
 <br>
