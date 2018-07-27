@@ -30,7 +30,7 @@ Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMacX.zip)
 
 <br>
 
-Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayWinX.exe)
+Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 <br>
 双击运行即可！
 <br>
