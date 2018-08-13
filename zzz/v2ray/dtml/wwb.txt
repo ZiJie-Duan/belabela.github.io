@@ -1,4 +1,6 @@
 print("呦！")
 print("王文博你个大傻逼")
-print("yea 大撒货币！")
+print("去吧把宫抑菌操穿")
+print("哈哈哈哈哈哈哈哈哈哈")
 print("呦！")
+
