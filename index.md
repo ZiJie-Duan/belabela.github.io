@@ -5,7 +5,7 @@
 
 <br>
 
-[V2ray 翻墙服务 测试版本](web/v2/Subhomepage.md)
+[V2ray 加速服务 测试版本](web/v2/Subhomepage.md)
 
 <br>
 
