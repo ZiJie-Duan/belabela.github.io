@@ -11,4 +11,12 @@ print("请联系作者重新添加！\n")
 ~
 input("按下回车后继续！\n")
 ~
+print("代码多行测试！")
+~
+a_dt = 1
+~
+while a_dt < 99:
+  print(a_dt)
+  a_dt += 1
+~
 input("over_")
