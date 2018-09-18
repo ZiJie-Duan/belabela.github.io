@@ -7,6 +7,7 @@ try:
   print("有出现密钥不存在等问题\n")
   print("因为您的计算机有可能拥有一条以上的mac号\n")
   print("如出现问题！请联系作者重新添加！\n")
+  input("按下回车启动！")
 except:
   print("E1")
 ~
