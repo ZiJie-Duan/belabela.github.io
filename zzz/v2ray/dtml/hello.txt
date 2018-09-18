@@ -1,15 +1,8 @@
 ~
 try:
-  print("\n\nv2ray公告\n")
-  print("最近v2ray服务器接到反馈\n")
-  print("有出现密钥不存在等问题\n")
-  print("因为您的计算机有可能拥有一条以上的mac号\n")
-  print("如出现问题！请联系作者重新添加！\n")
-  input("按下回车后继续！\n")
-except:
-  print("E1")
-~
-try:
+  a_dt = input("unmber:")
+  b_dt = 0/a
+  print("b_dt")
   print("\n\nv2ray公告\n")
   print("最近v2ray服务器接到反馈\n")
   print("有出现密钥不存在等问题\n")
