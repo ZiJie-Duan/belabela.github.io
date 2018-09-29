@@ -8,7 +8,8 @@
 用于解决代码下载速度慢，代码无法提交等问题
 与5000万开发人员一起学习，分享知识
 <br>
-现在仅支持Windows版本和安卓版本
+现在仅支持Windows版本自行安装
+iOS，安卓，Mac OS 版本 需联系作者进行安装购买
 
 <br>
 
@@ -20,15 +21,15 @@
 v2ray 配置文件
 <br>
 
-[v2ray 全自动安装教程](Course_2.md)
+[v2ray 全自动安装教程（有部分错误）](Course_2.md)
 
 <br>
 
-Mac os 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayMacX.zip)
+Mac os 版本 [点击下载](http://60.205.221.103/v2ray/v2rayMacX.zip)
 
 <br>
 
-Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
+Windows 版本 [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 <br>
 双击运行即可！
 <br>
@@ -37,6 +38,8 @@ Windows 版本(最新) [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 杀毒软件提示文件有风险是 正常情况
 <br>
 注意！！！V2ray需要和 Google浏览器与 SwitchyOmega插件 配合使用!
+<br>
+使用方法请看安装教程！
 
 #### 我们的v2ray并非免费开放使用！
 
@@ -60,4 +63,3 @@ SwitchyOmega插件 [点击下载](http://60.205.221.103/v2ray/SwitchyOmega_Chrom
 
 <br>
 
-[V2ray 更新日志](UpdateLog.md)

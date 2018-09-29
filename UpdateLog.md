@@ -1,5 +1,14 @@
 ### Lucy core 主页更新日志
 
+
+#### 2018年9月29日 19：38<br>
+更新内容：<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1，<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2，URL结构优化<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3，提高访问速度与稳定性<br>
+<br>
+
 #### 2018年6月6日 22：49<br>
 更新内容：<br>
 
