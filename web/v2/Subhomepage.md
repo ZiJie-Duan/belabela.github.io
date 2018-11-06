@@ -4,12 +4,12 @@
 
 <br>
 
-这是一个用于加速访问GitHub，Stack Overflow等网站的技术
-用于解决代码下载速度慢，代码无法提交等问题
-与5000万开发人员一起学习，分享知识
+这是一个用于加速访问GitHub，Stack Overflow等外国网站的技术
+用于获取用于教育的信息
+
 <br>
-现在仅支持Windows版本自行安装
-iOS，安卓，Mac OS 版本 需联系作者进行安装购买
+现在仅支持Windows Mac OS 版本自行安装
+iOS，安卓，需联系作者进行安装购买
 
 <br>
 
@@ -49,13 +49,15 @@ Windows 版本 [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 
 <br>
 
-Windows chrome [点击下载](http://60.205.221.103/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
+Windows google chrome [点击下载](http://60.205.221.103/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
+<br>
+Mac OS google chrome [点击下载](http://60.205.221.103/v2ray/google-chrome-69-0-3497-81-64-bit.dmg)
 <br>
 SwitchyOmega插件 [点击下载](http://60.205.221.103/v2ray/SwitchyOmega_Chromium.crx)
 
 <br>
 
-安卓 Actinium [点击下载](http://60.205.221.103/v2ray/Actinium.apk)
+安卓 V2ray [点击下载](http://60.205.221.103/v2ray/Actinium.apk)
 
 <br>
 
