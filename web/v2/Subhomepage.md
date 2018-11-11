@@ -21,7 +21,15 @@ iOS，安卓，需联系作者进行安装购买
 v2ray 配置文件
 <br>
 
-[v2ray 全自动安装教程（有部分错误）](Course_2.md)
+[v2ray win&Mac全自动安装教程（有部分错误）](Course_2.md)
+
+<br>
+
+Windows/Mac os 的安装可以下载 “TeamViewer” 获取在线远程协助安装
+
+<br>
+
+如果您无法看懂上述教程可以使用[v2ray 直接使用资源（来自Alvin9999）](https://github.com/Alvin9999/new-pac/wiki/v2ray%E7%89%8)
 
 <br>
 
@@ -46,6 +54,12 @@ Windows 版本 [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 根据每月服务器供应商vultr产生的费用，需要您来承担部分
 <br>
 我们会提出尽量偏低且合理的价格
+
+<br>
+
+如果您不喜欢我们的收费政策，您可以尝试以下途径
+<br>
+主页 来自[Alvin9999的wiki](https://github.com/Alvin9999/new-pac/wiki)
 
 <br>
 
