@@ -21,7 +21,7 @@ iOS，安卓，需联系作者进行安装购买
 v2ray 配置文件
 <br>
 
-[v2ray win&Mac全自动安装教程（有部分错误）](Course_2.md)
+[v2ray win&Mac全自动安装教程（有部分错误）](Course_2x.md)
 
 <br>
 
@@ -33,11 +33,11 @@ Windows/Mac os 的安装可以下载 “TeamViewer” 获取在线远程协助�
 
 <br>
 
-Mac os 版本 [点击下载](http://60.205.221.103/v2ray/v2rayMacX.zip)
+Mac os 版本 [点击下载](http://www.lucycore.top/v2ray/v2rayMacX.zip)
 
 <br>
 
-Windows 版本 [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
+Windows 版本 [点击下载](http://www.lucycore.top/v2ray/v2rayWinX.zip)
 <br>
 双击运行即可！
 <br>
@@ -51,7 +51,7 @@ Windows 版本 [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 
 #### 我们的v2ray并非免费开放使用！
 
-根据每月服务器供应商vultr产生的费用，需要您来承担部分
+根据每月服务器供应商google产生的费用，需要您来承担部分
 <br>
 我们会提出尽量偏低且合理的价格
 
@@ -63,15 +63,15 @@ Windows 版本 [点击下载](http://60.205.221.103/v2ray/v2rayWinX.zip)
 
 <br>
 
-Windows google chrome [点击下载](http://60.205.221.103/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
+Windows google chrome [点击下载](http://www.lucycore.top/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
 <br>
-Mac OS google chrome [点击下载](http://60.205.221.103/v2ray/google-chrome-69-0-3497-81-64-bit.dmg)
+Mac OS google chrome [点击下载](http://www.lucycore.top/v2ray/google-chrome-69-0-3497-81-64-bit.dmg)
 <br>
-SwitchyOmega插件 [点击下载](http://60.205.221.103/v2ray/SwitchyOmega_Chromium.crx)
+SwitchyOmega插件 [点击下载](http://www.lucycore.top/v2ray/SwitchyOmega_Chromium.crx)
 
 <br>
 
-安卓 V2ray [点击下载](http://60.205.221.103/v2ray/Actinium.apk)
+安卓 V2ray [点击下载](http://www.lucycore.top/v2ray/Actinium.apk)
 
 <br>
 
