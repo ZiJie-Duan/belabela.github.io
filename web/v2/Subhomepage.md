@@ -15,15 +15,15 @@ Windows 版本 [点击下载](http://www.lucycore.top/v2ray/v2rayWinX.zip)
 
 <br>
 
-Windows google chrome [点击下载](http://www.lucycore.top/v2ray/ChromeStandalone_66.0.3359.139_Setup.exe)
+Windows google chrome [点击下载](http://www.lucycore.top/static/v2ray-download/ChromeStandalone_66.0.3359.139_Setup.exe)
 <br>
-Mac OS google chrome [点击下载](http://www.lucycore.top/v2ray/google-chrome-69-0-3497-81-64-bit.dmg)
+Mac OS google chrome [点击下载](http://www.lucycore.top/static/v2ray-download/google-chrome-69-0-3497-81-64-bit.dmg)
 <br>
-SwitchyOmega插件 [点击下载](http://www.lucycore.top/v2ray/SwitchyOmega_Chromium.crx)
+SwitchyOmega插件 [点击下载](http://www.lucycore.top/static/SwitchyOmega_Chromium.crx)
 
 <br>
 
-安卓 V2ray [点击下载](http://www.lucycore.top/v2ray/Actinium.apk)
+安卓 V2ray [点击下载](http://www.lucycore.top/static/v2ray-download/v2ng.apk)
 
 <br>
 
