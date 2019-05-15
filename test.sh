@@ -1492,7 +1492,6 @@ change_v2ray_id() {
 				echo -e "$yellow 修改用户ID = $cyan确定$none"
 				echo "----------------------------------------------------------------"
 				echo
-				pause
 				backup_config uuid
 				v2ray_id=$uuid
 				config
