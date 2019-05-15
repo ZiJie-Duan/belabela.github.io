@@ -623,7 +623,7 @@ change_v2ray_config() {
 			fi
 		done
 		echo
-		opt="4"
+		opt=4
 		if [[ -z $_opt ]]; then
 			error
 		else
