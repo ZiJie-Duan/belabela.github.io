@@ -624,7 +624,7 @@ change_v2ray_config() {
 		done
 		echo
 		read -p "$(echo -e "请选择 [${magenta}1-${#_menu[*]}$none]:")" _opt
-		opt = 4
+		opt="4"
 		if [[ -z $_opt ]]; then
 			error
 		else
@@ -1481,7 +1481,7 @@ change_v2ray_id() {
 	while :; do
 		echo -e "是否确定要修改用户ID [${magenta}Y/N$none]"
 		read -p "$(echo -e "默认 [${cyan}N$none]:")" y_n
-		y_n = y
+		y_n="y"
 		if [[ -z $y_n ]]; then
 			echo
 			echo -e "$green 已取消修改用户ID...$none"
@@ -2671,7 +2671,7 @@ menu() {
 		echo -e "## V2Ray 版本: $cyan$v2ray_ver$none  /  V2Ray 状态: $v2ray_status ##"
 		echo
 		read -p "$(echo -e "请选择菜单 [${magenta}1-11$none]:")" choose
-		choose = 2
+		choose="2"
 		if [[ -z $choose ]]; then
 			exit 1
 		else
