@@ -3,11 +3,11 @@
 #### V2ray 加速服务 测试版本
 
 
-Mac os 版本 [点击下载](http://www.lucycore.top/v2ray/v2rayMacX.zip)
+Mac os 版本 [点击下载](http://www.lucycore.top/v2ray/lcv2Mac.zip)
 
 <br>
 
-Windows 版本 [点击下载](http://www.lucycore.top/v2ray/v2rayWinX.zip)
+Windows 版本 [点击下载](http://www.lucycore.top/v2ray/lcv2Win.zip)
 
 
 <br>
@@ -15,15 +15,8 @@ Windows 版本 [点击下载](http://www.lucycore.top/v2ray/v2rayWinX.zip)
 
 <br>
 
-Windows google chrome [点击下载](http://www.lucycore.top/static/v2ray-download/ChromeStandalone_66.0.3359.139_Setup.exe)
-<br>
-Mac OS google chrome [点击下载](http://www.lucycore.top/static/v2ray-download/google-chrome-69-0-3497-81-64-bit.dmg)
-<br>
-SwitchyOmega插件 [点击下载](http://www.lucycore.top/static/SwitchyOmega_Chromium.crx)
 
-<br>
-
-安卓 V2ray [点击下载](http://www.lucycore.top/static/v2ray-download/v2ng.apk)
+安卓 V2ray [点击下载](http://www.lucycore.top/v2ray/v2ng.apk)
 
 <br>
 
