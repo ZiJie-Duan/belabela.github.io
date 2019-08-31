@@ -43,10 +43,10 @@ then
 	sed -i "s#//include_socks# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_mtproto# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_in_config# #g"  /etc/v2ray/config.json
-	sed -i "s#//# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_out_config# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_ban_ad# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_rules# #g"  /etc/v2ray/config.json
+	sed -i "s#//# #g"  /etc/v2ray/config.json
 
 elif [ $cmd == "2" ]
 then
