@@ -10,7 +10,7 @@ echo "4,加载ap_server下载库"
 echo "5,转移主服务器数据库文件（上载）"
 echo "6,转移主服务器数据库文件（下载）"
 echo "7,开启google ssh"
-echo ""
+echo "8,构建守护程序环境"
 
 
 read -p "输入选择序号 > " cmd
@@ -85,6 +85,27 @@ then
 	passwd root
 
 	reboot
+
+elif [ $cmd == "8" ]
+then
+	cd ~
+	apt-get update
+	apt-get upgrade
+
+	apt install git
+
+	git clone https://github.com/lucycore/lcv2.git
+
+	bash <(curl -s -L https://git.io/v2ray.sh)
+
+	sed -i "s#//include_ss# #g"  /etc/v2ray/config.json
+	sed -i "s#//include_socks# #g"  /etc/v2ray/config.json
+	sed -i "s#//include_mtproto# #g"  /etc/v2ray/config.json
+	sed -i "s#//include_in_config# #g"  /etc/v2ray/config.json
+	sed -i "s#//include_out_config# #g"  /etc/v2ray/config.json
+	sed -i "s#//include_ban_ad# #g"  /etc/v2ray/config.json
+	sed -i "s#//include_rules# #g"  /etc/v2ray/config.json
+	sed -i "s#//# #g"  /etc/v2ray/config.json
 
 else
    echo "没有符合的条件"
