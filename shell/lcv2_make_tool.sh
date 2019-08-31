@@ -50,13 +50,11 @@ then
 
 elif [ $cmd == "2" ]
 then
-	screen -S m
 	cd ~
 	python3 ./lcv2/server/main.py
 
 elif [ $cmd == "3" ]
 then
-	screen -S p
 	cd ~
 	python3 ./lcv2/server/ptcore.py
 
