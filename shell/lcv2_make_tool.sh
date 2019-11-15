@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "lcv2 环境搭建辅助脚本"
+echo "lcv2 环境搭建辅助脚本 v2.0"
 echo "环境： google cloud Linux debian9"
 
 echo "1,构建lcv2主体与运行环境"
@@ -37,7 +37,7 @@ then
 
 	pip3 install -r ./lcv2/mods.txt
 
-	bash <(curl -s -L https://git.io/v2ray.sh)
+	bash <(curl -s -L https://git.io/my-v2ray)
 
 	sed -i "s#//include_ss# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_socks# #g"  /etc/v2ray/config.json
@@ -96,7 +96,7 @@ then
 
 	git clone https://github.com/lucycore/lcv2.git
 
-	bash <(curl -s -L https://git.io/v2ray.sh)
+	bash <(curl -s -L https://git.io/my-v2ray)
 
 	sed -i "s#//include_ss# #g"  /etc/v2ray/config.json
 	sed -i "s#//include_socks# #g"  /etc/v2ray/config.json
