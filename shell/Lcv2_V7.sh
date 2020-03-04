@@ -38,13 +38,14 @@ then
 	chmod 777 ./Lcv2_child_server
 	chmod 777 ./v2rayapi
 
+	v2ray start
+
 	echo "构建lcv2子服务器与运行环境 完成"
 
 elif [ $cmd == "2" ]
 then
 	cd ~
 	screen -S lcv2c
-	./Lcv2_child_server
 
 
 elif [ $cmd == "3" ]
