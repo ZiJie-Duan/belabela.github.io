@@ -5,9 +5,7 @@ echo "环境： google cloud Linux debian9"
 
 echo "1,构建lcv2子服务器运行环境"
 echo "2,启动lcv2子服务器"
-echo "3,构建主控服务器（包含阿帕奇）"
-echo "4,启动主控服务器"
-echo "5,开启google ssh"
+echo "3,开启google ssh"
 
 
 read -p "输入选择序号 > " cmd
@@ -50,34 +48,6 @@ then
 
 
 elif [ $cmd == "3" ]
-then
-	cd ~
-	apt-get update
-	apt-get upgrade
-
-	apt install apache2
-	apt install git
-
-	cd /var/www
-
-	git clone https://github.com/lucycore/ap_server.git
-
-	mv ./ap_server ./html
-
-	cd ~
-	cp /var/www/html/v2ray-api/Lcv2_main_server ./Lcv2_main_server
-
-	chmod ./Lcv2_main_server
-	echo "构建lcv2主服务器与运行环境 完成"
-
-elif [ $cmd == "4" ]
-then
-	cd ~
-	screen -S lcv2
-	./Lcv2_main_server
-	
-
-elif [ $cmd == "5" ]
 then
 	sed -i "s/PermitRootLogin no/PermitRootLogin yes/g"  /etc/ssh/sshd_config
 	sed -i "s/PasswordAuthentication no/PasswordAuthentication yes/g"  /etc/ssh/sshd_config
