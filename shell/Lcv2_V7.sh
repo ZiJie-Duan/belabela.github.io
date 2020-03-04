@@ -27,13 +27,13 @@ then
 
 	cd /etc/v2ray/
 
-	wget http://ahhhhhh.top/v2ray-api/config.json
-	wget http://ahhhhhh.top/v2ray-api/233blog_v2ray_backup.conf
+	wget http://101.200.73.219/v2ray-api/config.json
+	wget http://101.200.73.219/v2ray-api/233blog_v2ray_backup.conf
 
 	cd ~
-	wget http://ahhhhhh.top/v2ray-api/v2rayapi
+	wget http://101.200.73.219/v2ray-api/v2rayapi
 
-	wget http://ahhhhhh.top/v2ray-api/Lcv2_child_server
+	wget http://101.200.73.219/v2ray-api/Lcv2_child_server
 
 	chmod 777 ./Lcv2_child_server
 	chmod 777 ./v2rayapi
