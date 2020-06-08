@@ -18,8 +18,7 @@ then
 	apt-get update
 	apt-get upgrade
 
-	bash <(curl -s -L https://git.io/my-v2ray)
-
+	bash <(curl -s -L https://git.io/v2ray.sh)
 	v2ray stop
 
 	rm /etc/v2ray/config.json
